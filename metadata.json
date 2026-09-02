@@ -1,0 +1,6 @@
+{
+  "name": "EngSpeak - 영어 말하기 생각하기",
+  "description": "한글 문장을 듣고/보고 영어로 빠르게 생각하여 음성 또는 텍스트로 답하는 영어 스피킹 훈련 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
